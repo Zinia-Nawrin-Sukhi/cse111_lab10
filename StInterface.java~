@@ -1,0 +1,9 @@
+public interface StInterface
+{
+public abstract void setName();
+public abstract String getName();
+public abstract void setId();
+public abstract String getId();
+
+
+}

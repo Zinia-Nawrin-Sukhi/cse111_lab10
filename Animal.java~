@@ -1,0 +1,21 @@
+public abstract class Animal{
+  
+  
+  public getName(){
+    return name;
+    
+  }
+  public makeNoise(){
+  return noise;
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+}

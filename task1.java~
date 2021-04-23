@@ -1,0 +1,14 @@
+public class task1
+{
+public static void main(String[]args)
+{
+Instrument i=new Instrument();
+Guitar g=new Guitar();
+Keyboard k=new Keyboard();
+Violin v=new Violin();
+i.play();
+
+
+}
+
+}

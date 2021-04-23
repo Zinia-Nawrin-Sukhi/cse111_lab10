@@ -1,0 +1,11 @@
+public abstract class Instrument
+{
+  public abstract void play();
+  public abstractvoid adjust();
+  public void compose()
+  {
+  
+  }
+  
+  
+}

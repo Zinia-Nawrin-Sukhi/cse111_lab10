@@ -1,0 +1,13 @@
+public class Student implements StInterface()
+{
+String name;
+String Id;
+String address;
+public void setName()
+{
+name="Prioti";
+}
+public
+
+
+}
